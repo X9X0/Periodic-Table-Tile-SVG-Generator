@@ -2,8 +2,8 @@
 A Python GUI application for generating scalable vector graphic (SVG) tiles representing elements of the periodic table. Easily customize design parameters, preview your changes live, and export your tiles for educational use, poster design, or scientific visualization.
 
 ✨ Features
-Real-Time Preview
-Live preview pane updates as you change any setting.
+Real-Time Preview (Not Yet)
+Live preview pane updates as you change any setting. 
 
 Customizable Layout
 
@@ -38,9 +38,6 @@ Save your custom tile as an .svg file
 🛠 Requirements
 Install Python dependencies:
 
-bash
-Copy
-Edit
 pip install pillow cairosvg
 This uses:
 
@@ -62,10 +59,10 @@ Once you customize the tile, click "Save as SVG" to export your design. You can 
 
 📸 Screenshots
 Main Interface
+![GUI Screenshot](screenshots/gui.png)
+![Example SVG Output](screenshots/sample_tile.svg)
 
-Example Output
 
-(You will need to add screenshots/gui.png and screenshots/sample_tile.svg to your project directory to use these.)
 
 📁 Project Structure
 bash
