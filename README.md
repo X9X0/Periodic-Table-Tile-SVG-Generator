@@ -65,9 +65,7 @@ Main Interface
 
 
 📁 Project Structure
-bash
-Copy
-Edit
+
 svg_tile_generator/
 ├── svg_tile_generator.py      # Main script
 ├── README.md                  # This file
