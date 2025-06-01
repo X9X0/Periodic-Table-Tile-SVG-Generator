@@ -63,15 +63,6 @@ Main Interface
 ![Example SVG Output](screenshots/sample_tile.svg)
 
 
-
-📁 Project Structure
-
-svg_tile_generator/
-├── svg_tile_generator.py      # Main script
-├── README.md                  # This file
-└── screenshots/               # Folder to store preview images (optional)
-    ├── gui.png
-    └── sample_tile.svg
 📄 License
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it.
